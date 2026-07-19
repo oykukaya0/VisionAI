@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/eb93c8ab-7804-4f10-bd59-fe8b37133d0a
+
 # 🤖 VisionAI - AI Powered Study Focus Assistant
 
 VisionAI is an AI-powered desktop application that helps students improve their study habits using Computer Vision.
